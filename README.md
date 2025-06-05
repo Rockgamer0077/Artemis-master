@@ -17,11 +17,8 @@ The Artemis Software is a set of software tools for genome browsing and annotati
 
 ## Contents
   * [Introduction](#introduction)
-  * [Installation](#installation)
-  * [Usage](#usage)
   * [Building](#building)
-  * [License](#license)
-  * [Documentation](#documentation)
+ 
 
 ## Introduction
 The Artemis Software includes:
@@ -45,13 +42,7 @@ For further information and details on how to download the Artemis software, ple
 
 Java version 9 or later must be installed. Ideally Java 11 should be used. The easiest way to install a non-commercial open source Java version is from [AdoptOpenJDK](https://adoptopenjdk.net/releases.html) - just select the OpenJDK 11 and Hotspot options for the relevant platform. See the [GitHub pages and manuals](#documentation) for further options. A Java installation is not required if installing via Bioconda or Docker.
 
-## Installation
 
-Please refer to the relevant documentation in the [Documentation](#documentation) section below.
-
-## Usage
-
-Please refer to the relevant documentation in the [Documentation](#documentation) section below.
 
 ## Building
 
