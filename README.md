@@ -149,24 +149,4 @@ If you wish to do this then carry out the following steps:
 
   (Note: the environment variable http_proxy may need to be set for the ftp downloads to work).
 
-## License
-Artemis is free software, licensed under [GPLv3](https://github.com/sanger-pathogens/artemis/blob/master/LICENSE).
 
-For more information on how to download Artemis, please see the [Artemis GitHub page](http://sanger-pathogens.github.io/Artemis/)
-
-## Documentation
-
-Artemis GitHub pages:
-  http://sanger-pathogens.github.io/Artemis/
-
-The Artemis user manual is at:
-  http://sanger-pathogens.github.io/Artemis/Artemis/
-
-The ACT user manual is at:
-  http://sanger-pathogens.github.io/Artemis/ACT/
-
-The DNA plotter documentation is at:
-  http://sanger-pathogens.github.io/Artemis/DNAPlotter/
-
-The BAM View documentation is at:
-  http://sanger-pathogens.github.io/Artemis/BamView/
