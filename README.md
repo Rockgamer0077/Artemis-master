@@ -17,6 +17,7 @@ The Artemis Software is a set of software tools for genome browsing and annotati
 ## Contents
   * [Introduction](#introduction)
   * [Building](#building)
+  * [Documentation](#documentation)
  
 
 ## Introduction
@@ -136,7 +137,16 @@ If you wish to do this then carry out the following steps:
   cp <Artemis folder>/etc/setup_blast_dbs.sh .
   ./setup_blast_dbs.sh
   ```
+## Documentation
 
+Artemis GitHub pages:
+  http://sanger-pathogens.github.io/Artemis/
+
+The Artemis user manual is at:
+  http://sanger-pathogens.github.io/Artemis/Artemis/
+
+The ACT user manual is at:
+  http://sanger-pathogens.github.io/Artemis/ACT/
   (Note: the environment variable http_proxy may need to be set for the ftp downloads to work).
 
 
