@@ -137,6 +137,7 @@ If you wish to do this then carry out the following steps:
   cp <Artemis folder>/etc/setup_blast_dbs.sh .
   ./setup_blast_dbs.sh
   ```
+ (Note: the environment variable http_proxy may need to be set for the ftp downloads to work).
 ## Documentation
 
 Artemis GitHub pages:
@@ -147,6 +148,6 @@ The Artemis user manual is at:
 
 The ACT user manual is at:
   http://sanger-pathogens.github.io/Artemis/ACT/
-  (Note: the environment variable http_proxy may need to be set for the ftp downloads to work).
+ 
 
 
